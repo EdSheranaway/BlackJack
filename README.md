@@ -1,5 +1,5 @@
 # BlackJack
-This Python script is a text-based version of the popular game of Blackjack using OOP.
+This Python script is a text-based version of the popular game of Blackjack using OOP, functional programming, and input validation.
 To run simply clone the repository (both main.py and classes.py) and run main.py in your favorite method of choice!
 
 A little intro into Blackjack for begginers:
